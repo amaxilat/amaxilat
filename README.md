@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://amaxilatis.com/
+[linkedin]: https://www.linkedin.com/in/dimitriosamaxilatis

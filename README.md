@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Website](https://img.shields.io/website?label=amaxilatis.com/&style=flat-square&url=https%3A%2F%2Famaxilatis.com)](https://amaxilatis.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitriosamaxilatis)
+[![](https://komarev.com/ghpvc/?username=amaxilat&color=green&style=flat-square)](https://github.com/amaxilat)
+
+
 [website]: https://amaxilatis.com/
 [linkedin]: https://www.linkedin.com/in/dimitriosamaxilatis
